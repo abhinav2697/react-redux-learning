@@ -28,7 +28,8 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  background-color: purple;
+  background-color: #087EA4;
+  /* background-color: #764ABC; */
   color: whitesmoke;
   position: sticky;
   top: 0;
